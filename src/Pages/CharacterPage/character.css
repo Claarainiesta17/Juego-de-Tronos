@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+
+section{
+    background-color: black;
+}
+
+.c-gallery{
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+
+.b-Buscador{
+    border: 0;
+    margin-left: 20px;
+}
+
+.input{
+    background-color: black;
+    border-bottom: 4px bold white;
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+    border-color: white;
+    width: 500px;
+    height: 30px;
+    color: white;
+    cursor: pointer;
+    outline: none;
+    display: inline-block;
+}
+
+.lupa{
+    width: 13px;
+    position: absolute;
+    margin-top: 10px;
+}

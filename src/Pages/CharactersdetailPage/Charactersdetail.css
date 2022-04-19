@@ -1,0 +1,12 @@
+.flecha{
+    margin-top: 10px;
+    margin-bottom: 0;
+    margin-left: 20px;
+    position: absolute;
+}
+
+.icono-home{
+    width: 70px;
+    height: 70px;
+    background-color: white;
+}

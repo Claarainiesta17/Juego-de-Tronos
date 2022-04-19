@@ -1,0 +1,13 @@
+h1{
+    color: antiquewhite;
+}
+section{
+    background-color: black;
+}
+
+.c-gallery{
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}

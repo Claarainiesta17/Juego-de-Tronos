@@ -1,0 +1,24 @@
+p{
+    font-family: GameofThrones;
+}
+
+.logo-casas{
+    width: 17%;
+    margin-left: 42%;
+}
+
+.nombre-casa{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.toda-seccion2{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.flecha-img{
+    position: absolute;
+}

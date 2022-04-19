@@ -1,0 +1,22 @@
+ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    align-content: flex-end;
+    list-style: none;
+  font-family: Game of Thrones;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  margin: 0;
+}
+
+a{
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: large;
+    font-size: 36px;
+    background-color: none;
+}

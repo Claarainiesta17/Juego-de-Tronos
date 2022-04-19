@@ -1,0 +1,32 @@
+.nav{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+}
+
+.banderas{
+    display: flex;
+    flex-direction: row;
+}
+
+.logo1{
+    width: 70px;
+    height: 70px;
+    margin-right: 40px;
+    margin-top: 30px;
+}
+
+button{
+    background: transparent;
+    outline: none;
+    border: none;
+}
+
+.logo2{
+    width: 70px;
+    height: 70px;
+    margin-right: 40px;
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+

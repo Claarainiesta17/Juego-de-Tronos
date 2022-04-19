@@ -1,0 +1,22 @@
+a{
+    width: 15%;
+    height: 15%;
+}
+
+div{
+    gap: 20px;
+}
+
+.imagen-casa{
+    width: 248px;
+    height: 297px;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-self: flex-end;
+    font-size: 16px;
+    font-family: Game of Thrones;
+}

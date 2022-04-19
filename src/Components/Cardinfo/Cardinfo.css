@@ -1,0 +1,36 @@
+figure{
+    color: whitesmoke;
+    
+}
+
+p{
+    font-family: GameofThrones;
+}
+
+.foto{
+    width: 15%;
+    margin-left: 43%;
+}
+
+.nombre{
+    font-size: 30px;
+}
+
+.logo-casa{
+    width: 100px;
+    height: 120px;
+}
+
+.nombre{
+    display: flex;
+    justify-content: center;
+}
+
+.toda-seccion{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.flecha-img{
+    position: absolute;
+}

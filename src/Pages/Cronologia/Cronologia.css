@@ -1,0 +1,126 @@
+p{
+    color: white;
+    margin: 5px;
+}
+
+.contenedorCronology{
+    width: 90%;
+    margin: 10px 100px;
+    display: flex;
+    top: 15px;
+}
+
+.timeline-container{
+    height: 450px;
+    width: 100%;
+    overflow-y: auto;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;;
+}
+
+.timeline-container::-webkit-scrollbar{
+    width: 5px;
+    background-color: white;
+}
+
+.b-redondo{
+    width: 70px;
+    height: 70px;
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border: solid 2px white;
+    border-radius: 50%;
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+.box-izq{
+    margin-top: 4%;
+    width: 50vw;
+    border-right: 3px solid white;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.der-box-big{
+    flex-direction: column;
+    margin-top: 16%;
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.box-izq-small{
+    margin-right: 0px;
+    font-size: 16px;
+    width: 500px;
+    height: 400px;
+    text-align: center;
+    border-top: solid 2px white;
+    color: white;
+}
+
+.box-izq-small_age{
+    font-size: 20px;
+}
+
+.box-izq-small_img{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    object-position: top;
+    border-radius: 50%;
+}
+
+.der-box-small{
+    font-size: 16px;
+    width: 500px;
+    height: 400px;
+    text-align: center;
+    border-top: solid 2px white;
+    margin-left: 0px;
+    color: white;
+}
+
+.der-box-small_age{
+    font-size: 20px;
+}
+
+.der-box-small_img{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    object-position: top;
+    border-radius: 50%;
+}
+
+.b-cronology{
+    margin-top: 80px;
+    height: 75vh;
+}
+
+.flecha{
+    left: 27px;
+    top: -50px;
+    width: 50px;
+    height: 50px;
+    position: relative;
+}
+
+.flecha_reves{
+    left: 27px;
+    top: -50px;
+    width: 50px;
+    height: 50px;
+    position: relative;
+transform: scaleY(-1);
+}
